@@ -1,3 +1,7 @@
+### 블로그
+
+- https://blog.gwo-o.info
+
 ### 할 줄 아는 것
 
 - **언어**: Python, TypeScript (Node.js), Go, Swift
