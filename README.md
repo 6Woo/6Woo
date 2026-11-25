@@ -2,7 +2,7 @@
 
 - https://blog.gwo-o.info
 
-### 할 줄 아는 것
+### 공부 중인 것
 
 - **언어**: Python, TypeScript (Node.js), Go, Swift
 - **백엔드**: FastAPI, Flask, PostgreSQL
